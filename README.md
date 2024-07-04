@@ -22,12 +22,12 @@ This project implements a camera calibration and depth estimation algorithm usin
 ## Code Structure
 -------------------
 
-### Folders
+### Files
 
 * `code.py`: Contains Python code for camera calibration, undistortion, depth estimation, and verification
-* `results/`: Stores the estimated intrinsic camera matrix, distortion coefficients, undistorted images, and depth values
+* `CV_Task__2.pdf`: Report pdf for this task.
 
-### Files
+### Functions
 
 * `main.py`: Python script that executes the camera calibration, undistortion, depth estimation, and verification algorithm
 * `camera_calibration.py`: Python function that performs camera calibration using OpenCV
