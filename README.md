@@ -15,20 +15,9 @@ This project implements a camera calibration and depth estimation algorithm usin
 * OpenCV 4.5 or later
 * NumPy 1.20 or later
 
-### Installation
-
-1. `git clone https://github.com/your-username/Camera-Calibration-and-Depth-Estimation.git`
-2. `pip install -r requirements.txt`
-
 ### Running the Code
 
-1. `python main.py`
-2. The script will perform camera calibration, undistortion, depth estimation, and verification using the provided dataset.
-
-## Dataset
-------------
-
-The project uses the Room with ArUco Markers dataset, which consists of images of a checkerboard pattern with different orientations and distances from the camera. The dataset is stored in the `dataset/` folder.
+1. The script will perform camera calibration, undistortion, depth estimation, and verification using the provided dataset.
 
 ## Code Structure
 -------------------
