@@ -24,7 +24,7 @@ This project implements a camera calibration and depth estimation algorithm usin
 
 ### Files
 
-* `code.py`: Contains Python code for camera calibration, undistortion, depth estimation, and verification
+* `camera_calibration_code.py`: Contains Python code for camera calibration, undistortion, depth estimation, and verification
 * `CV_Task__2.pdf`: Report pdf for this task.
 
 ### Functions
